@@ -27,7 +27,7 @@ import tutoria.domingo.servicios.ServiciosGame;
  * @author USUARIO
  */
 @RestController
-@RequestMapping("/api/Ortopedic")
+@RequestMapping("/api/Game")
 @CrossOrigin(origins = "*", methods= {RequestMethod.GET,RequestMethod.POST,RequestMethod.PUT,RequestMethod.DELETE})
 public class WebGame {
     
